@@ -1,3 +1,6 @@
+# Full Stack Local Blockchain Explorer
+This repository contains a full-stack application built with React for the front-end and Express for the back-end. The application allows you to interact with a local blockchain instance by providing functionalities such as transferring ETH, querying account balances, and viewing transaction history.
+
 ## Instruction on How to Run this Project Locally
 0. Make sure a local blockchain instance (ie.Ganache) is running on your local machine```HTTP://127.0.0.1:7545```
 * Server Set Up
